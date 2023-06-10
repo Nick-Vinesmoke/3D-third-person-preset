@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841173a8989a4334989fdc8a5144b773, type: 3}
+  m_Name: Ak
+  m_EditorClassIdentifier: 
+  rHandPos: {x: 0.2253261, y: -0.1828216, z: 0.1512569}
+  rHandRot: {x: -13.168, y: -0.559, z: -89.68501}
+  weaponPref: {fileID: 4086547459692216849, guid: ac24eb287ba6eea4d8c1b590b60c9f5e,
+    type: 3}
+  Weapon_pos: {x: 0.9565129, y: 1.652323, z: -0.05611835}
+  Wapon_rot: {x: 51.887, y: -87.414, z: -86.081}
